@@ -1,7 +1,37 @@
 # Welcome
 
-## Playfulness
-![snake gif](https://github.com/snoozers/snoozers/blob/output/github-contribution-grid-snake.svg)
+![](https://komarev.com/ghpvc/?username=snoozers&color=blueviolet)
+![Latest Activity](https://img.shields.io/badge/dynamic/json?label=Latest%20activity&query=%24..created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsnoozers%2Fevents%3Fper_page%3D1)
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height="170px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snoozers&layout=compact&theme=prussian" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=snoozers&hide=issues,contribs&count_private=true&show_icons=true&theme=prussian" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="95%" src="https://github-profile-trophy.vercel.app/?username=snoozers&theme=nord&title=Commits,PullRequest,Repositories,Stars,Followers&no-frame=true&&column=-1" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Platane/snk">
+    <img width="100%" src="https://github.com/snoozers/snoozers/blob/output/github-contribution-grid-snake.svg" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/snoozers/lazy-home">
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=snoozers&repo=lazy-home&theme=prussian" />
+  </a>
+  <a href="https://github.com/snoozers/dotfiles">
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=snoozers&repo=dotfiles&theme=prussian" />
+  </a>
+</p>
 
 <!--
 **snoozers/snoozers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
