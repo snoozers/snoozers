@@ -8,7 +8,7 @@
     <img align="center" height="170px" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snoozers&layout=compact&theme=prussian" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="57%" src="https://github-readme-stats.vercel.app/api?username=snoozers&hide=issues,contribs&count_private=true&show_icons=true&theme=prussian" />
+    <img align="center" width="58%" src="https://github-readme-stats.vercel.app/api?username=snoozers&hide=issues,contribs&count_private=true&show_icons=true&theme=prussian" />
   </a>
 </p>
 
