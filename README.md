@@ -5,10 +5,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="170px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snoozers&layout=compact&theme=prussian" />
+    <img align="center" height="170px" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snoozers&layout=compact&theme=prussian" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=snoozers&hide=issues,contribs&count_private=true&show_icons=true&theme=prussian" />
+    <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api?username=snoozers&hide=issues,contribs&count_private=true&show_icons=true&theme=prussian" />
   </a>
 </p>
 
