@@ -3,11 +3,11 @@
 ![](https://komarev.com/ghpvc/?username=snoozers&color=blueviolet)
 ![Latest Activity](https://img.shields.io/badge/dynamic/json?label=Latest%20activity&query=%24..created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsnoozers%2Fevents%3Fper_page%3D1)
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img width="95%" src="https://github-profile-trophy.vercel.app/?username=snoozers&theme=nord&title=Commits,PullRequest,Repositories,Stars,Followers&no-frame=true&&column=-1" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
