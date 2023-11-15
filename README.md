@@ -31,11 +31,11 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Platane/snk">
-    <img width="100%" src="https://github.com/snoozers/snoozers/blob/output/github-contribution-grid-snake.svg" />
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <p>
   <a href="https://github.com/snoozers/lazy-home">
